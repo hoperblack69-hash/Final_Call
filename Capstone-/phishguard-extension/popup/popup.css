@@ -1,0 +1,169 @@
+/* popup/popup.css — PhishGuard popup styles */
+:root {
+  --bg-primary: #0a0e1a;
+  --bg-card: rgba(255,255,255,0.05);
+  --border: rgba(255,255,255,0.08);
+  --safe: #00ff88;
+  --suspicious: #ffb800;
+  --danger: #ff3b5c;
+  --text: #e2e8f0;
+  --text-muted: #64748b;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-ui: 'Inter', sans-serif;
+}
+
+body {
+  width: 380px;
+  max-height: 520px;
+  background: var(--bg-primary);
+  color: var(--text);
+  font-family: var(--font-ui);
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+  box-shadow: 0 2px 24px #000a;
+  overflow: hidden;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px 8px 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+}
+
+#url {
+  font-size: 0.98rem;
+  color: var(--text-muted);
+  margin: 0 20px 8px 20px;
+  word-break: break-all;
+}
+
+#verdict-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 18px 0 8px 0;
+}
+
+.verdict-badge {
+  font-size: 2.1rem;
+  font-weight: bold;
+  padding: 12px 36px;
+  border-radius: 12px;
+  box-shadow: 0 0 16px 2px var(--border);
+  background: var(--bg-card);
+  color: var(--safe);
+  transition: background 0.2s, color 0.2s;
+}
+.verdict-badge.safe {
+  color: var(--safe);
+  box-shadow: 0 0 16px 2px var(--safe);
+}
+.verdict-badge.suspicious {
+  color: var(--suspicious);
+  box-shadow: 0 0 16px 2px var(--suspicious);
+}
+.verdict-badge.danger {
+  color: var(--danger);
+  box-shadow: 0 0 16px 2px var(--danger);
+  animation: pulse 1.2s infinite;
+}
+@keyframes pulse {
+  0% { box-shadow: 0 0 16px 2px var(--danger); }
+  50% { box-shadow: 0 0 32px 8px var(--danger); }
+  100% { box-shadow: 0 0 16px 2px var(--danger); }
+}
+
+#threat-bar {
+  width: 80%;
+  height: 16px;
+  background: #222c;
+  border-radius: 8px;
+  margin: 0 auto 8px auto;
+  overflow: hidden;
+}
+#threat-bar-inner {
+  height: 100%;
+  width: 0;
+  background: var(--safe);
+  border-radius: 8px;
+  transition: width 0.6s, background 0.2s;
+}
+#threat-bar-inner.amber { background: var(--suspicious); }
+#threat-bar-inner.orange { background: orange; }
+#threat-bar-inner.red { background: var(--danger); }
+
+.section {
+  margin: 10px 20px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+.section:last-child { border-bottom: none; }
+
+.section-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.section-content {
+  font-size: 0.97rem;
+  color: var(--text-muted);
+}
+
+#actions {
+  display: flex;
+  justify-content: space-between;
+  margin: 18px 20px 10px 20px;
+}
+#actions button {
+  background: var(--bg-card);
+  color: var(--text);
+  border: none;
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-size: 1rem;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background 0.2s, color 0.2s;
+}
+#actions button:last-child { margin-right: 0; }
+#actions button:hover {
+  background: var(--safe);
+  color: #0a0e1a;
+}
+
+#loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px 0;
+}
+#loading svg {
+  margin-bottom: 12px;
+  animation: spin 1.2s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#error {
+  color: var(--danger);
+  text-align: center;
+  margin: 40px 0 0 0;
+  font-size: 1.1rem;
+}
+
+#unsupported {
+  color: var(--text-muted);
+  text-align: center;
+  margin: 40px 0 0 0;
+  font-size: 1.1rem;
+}

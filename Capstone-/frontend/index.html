@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Detector</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🛡️ MULTI-CHANNEL PHISHING DETECTOR</h1>
+            <p>Advanced AI-powered threat analysis.</p>
+        </header>
+        
+        <main>
+            <div class="mode-toggle">
+                <button id="tabUrl" class="tab active">🔗 URL SCANNER</button>
+                <button id="tabEmail" class="tab">📧 EMAIL SCANNER</button>
+            </div>
+
+            <div class="mode-panels">
+                <section id="urlPanel" class="mode-panel active">
+                    <form id="scanForm">
+                        <div class="input-group">
+                            <label for="url">Target URL</label>
+                            <input type="url" id="url" placeholder="https://example.com" required>
+                        </div>
+
+
+                        <button type="submit" id="scanBtn" class="primary">SCAN URL</button>
+                    </form>
+                </section>
+
+                <section id="emailPanel" class="mode-panel hidden">
+                    <form id="emailForm">
+                        <div class="input-group">
+                            <label for="sender">From</label>
+                            <input type="email" id="sender" placeholder="support@amaz0n-security.com" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label for="subject">Subject</label>
+                            <input type="text" id="subject" placeholder="Urgent: Your account will be suspended!" required>
+                        </div>
+
+                        <div class="input-group">
+                            <label for="body">Email Body</label>
+                            <textarea id="body" placeholder="Paste the full email body here..." required></textarea>
+                        </div>
+
+                        <button type="submit" id="emailScanBtn" class="secondary">ANALYZE EMAIL</button>
+                    </form>
+                </section>
+            </div>
+
+            <div id="loading" class="hidden">
+                <div class="radar"></div>
+                <p id="loadingText">SCANNING...</p>
+            </div>
+
+            <div id="results" class="hidden">
+                <!-- Results will be inserted here -->
+            </div>
+        </main>
+        
+        <aside id="history">
+            <h3>Scan History</h3>
+            <div id="historyList"></div>
+            <button id="clearHistory">Clear History</button>
+        </aside>
+    </div>
+    
+    <script src="/static/js/api.js"></script>
+    <script src="/static/js/results.js"></script>
+    <script src="/static/js/email_results.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

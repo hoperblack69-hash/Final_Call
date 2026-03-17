@@ -1,0 +1,90 @@
+/* content/content.css — PhishGuard warning banner styles */
+
+:root {
+  --danger: #ff3b5c;
+  --suspicious: #ffb800;
+  --safe: #00ff88;
+  --bg-primary: #0a0e1a;
+  --text: #e2e8f0;
+  --font-ui: 'Inter', sans-serif;
+}
+
+#phishguard-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 999999;
+  font-family: var(--font-ui);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.25);
+  padding: 0;
+  margin: 0;
+  animation: slideDown 0.3s ease;
+}
+
+#phishguard-banner.danger {
+  background: var(--danger);
+}
+#phishguard-banner.suspicious {
+  background: var(--suspicious);
+  color: #222;
+}
+#phishguard-banner .phg-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 24px;
+}
+#phishguard-banner .phg-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+}
+#phishguard-banner .phg-actions button {
+  margin-left: 12px;
+  background: #fff2;
+  border: none;
+  color: var(--text);
+  font-weight: 600;
+  border-radius: 4px;
+  padding: 6px 16px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#phishguard-banner .phg-actions button:hover {
+  background: #fff4;
+}
+#phishguard-banner .phg-details {
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+@keyframes slideDown {
+  from { transform: translateY(-100%); }
+  to   { transform: translateY(0); }
+}
+
+body.phg-blur {
+  filter: blur(8px) brightness(0.3);
+  transition: filter 0.2s;
+}
+
+#phishguard-strip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  background: var(--danger);
+  color: #fff;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  z-index: 999999;
+  text-align: center;
+  padding: 4px 0;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}

@@ -1,0 +1,115 @@
+/* options/options.css — PhishGuard settings page styles */
+:root {
+  --bg-primary: #0a0e1a;
+  --bg-card: rgba(255,255,255,0.05);
+  --border: rgba(255,255,255,0.08);
+  --safe: #00ff88;
+  --suspicious: #ffb800;
+  --danger: #ff3b5c;
+  --text: #e2e8f0;
+  --text-muted: #64748b;
+  --font-ui: 'Inter', sans-serif;
+}
+body {
+  background: var(--bg-primary);
+  color: var(--text);
+  font-family: var(--font-ui);
+  margin: 0;
+  padding: 0;
+  min-width: 380px;
+  max-width: 420px;
+}
+.settings-card {
+  background: var(--bg-card);
+  border-radius: 10px;
+  margin: 24px auto;
+  padding: 24px 28px 18px 28px;
+  box-shadow: 0 2px 16px #000a;
+  border: 1px solid var(--border);
+}
+.settings-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+.setting-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+.setting-label {
+  font-size: 1.05rem;
+}
+input[type="checkbox"] {
+  accent-color: var(--safe);
+  width: 20px;
+  height: 20px;
+}
+input[type="text"] {
+  background: #222c;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 6px 10px;
+  font-size: 1rem;
+  width: 220px;
+}
+#whitelist-list {
+  margin: 10px 0 0 0;
+  padding: 0;
+  list-style: none;
+}
+#whitelist-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #222c;
+  border-radius: 5px;
+  margin-bottom: 6px;
+  padding: 6px 10px;
+}
+#whitelist-list button {
+  background: var(--danger);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#whitelist-list button:hover {
+  background: #ff5b7c;
+}
+#save-btn {
+  margin-top: 18px;
+  width: 100%;
+  background: var(--safe);
+  color: #0a0e1a;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#save-btn:hover {
+  background: #00e67a;
+}
+#toast {
+  display: none;
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--safe);
+  color: #0a0e1a;
+  padding: 10px 24px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.05rem;
+  box-shadow: 0 2px 12px #000a;
+  z-index: 9999;
+}

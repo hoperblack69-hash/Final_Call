@@ -1,0 +1,1433 @@
+[
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3216997981071472,
+        "Phishing": 0.3534272313117981,
+        "Malware": 0.32487303018569946
+      },
+      "confidence": 0.3534272313117981
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:07:33.337574"
+  },
+  {
+    "url": "https://www.google.com",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32572031021118164,
+        "Phishing": 0.35104119777679443,
+        "Malware": 0.3232385218143463
+      },
+      "confidence": 0.35104119777679443
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 68,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.10% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:08:01.142223"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DSFRGeGE2C6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3277013301849365,
+        "Phishing": 0.3526098132133484,
+        "Malware": 0.3196888267993927
+      },
+      "confidence": 0.3526098132133484
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 62,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.26% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:10:34.621739"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 16,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3261677026748657,
+        "Phishing": 0.34929385781288147,
+        "Malware": 0.32453837990760803
+      },
+      "confidence": 0.34929385781288147
+    },
+    "vt_result": {
+      "malicious": 5,
+      "suspicious": 1,
+      "harmless": 57,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (34.93% confidence). VirusTotal: 5/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:14:07.747323"
+  },
+  {
+    "url": "https://en-bridges.zapier.app/us-en",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 16,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3227784037590027,
+        "Phishing": 0.3531206250190735,
+        "Malware": 0.32410091161727905
+      },
+      "confidence": 0.3531206250190735
+    },
+    "vt_result": {
+      "malicious": 5,
+      "suspicious": 1,
+      "harmless": 59,
+      "undetected": 30,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 5/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:19:27.401136"
+  },
+  {
+    "url": "https://en-bridges.zapier.app/us-en",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 16,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3227784037590027,
+        "Phishing": 0.3531206250190735,
+        "Malware": 0.32410091161727905
+      },
+      "confidence": 0.3531206250190735
+    },
+    "vt_result": {
+      "malicious": 5,
+      "suspicious": 1,
+      "harmless": 59,
+      "undetected": 30,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 5/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:26:30.404162"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3216997981071472,
+        "Phishing": 0.3534272313117981,
+        "Malware": 0.32487303018569946
+      },
+      "confidence": 0.3534272313117981
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:29:45.868177"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3216997981071472,
+        "Phishing": 0.3534272313117981,
+        "Malware": 0.32487303018569946
+      },
+      "confidence": 0.3534272313117981
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:46:12.267313"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3216997981071472,
+        "Phishing": 0.3534272313117981,
+        "Malware": 0.32487303018569946
+      },
+      "confidence": 0.3534272313117981
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:46:27.700250"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3216997981071472,
+        "Phishing": 0.3534272313117981,
+        "Malware": 0.32487303018569946
+      },
+      "confidence": 0.3534272313117981
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:46:45.797154"
+  },
+  {
+    "url": "http://secure-login.apple-verification.xyz/auth",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 15,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32484859228134155,
+        "Phishing": 0.3520923852920532,
+        "Malware": 0.3230590522289276
+      },
+      "confidence": 0.3520923852920532
+    },
+    "vt_result": {
+      "malicious": 4,
+      "suspicious": 1,
+      "harmless": 58,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.21% confidence). VirusTotal: 4/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T11:47:09.134422"
+  },
+  {
+    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.3511474132537842,
+    "threat_score": 37,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32427167892456055,
+        "Phishing": 0.3511474132537842,
+        "Malware": 0.32458099722862244
+      },
+      "confidence": 0.3511474132537842
+    },
+    "vt_result": {
+      "malicious": 9,
+      "suspicious": 1,
+      "harmless": 56,
+      "undetected": 29,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "MALWARE"
+      ],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.11% confidence). VirusTotal: 9/95 engines flagged as malicious. Google Safe Browsing: Threats detected - MALWARE. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-15T11:47:31.800568"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 17,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32610878348350525,
+        "Phishing": 0.35163938999176025,
+        "Malware": 0.3222518861293793
+      },
+      "confidence": 0.35163938999176025
+    },
+    "vt_result": {
+      "malicious": 8,
+      "suspicious": 0,
+      "harmless": 55,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.16% confidence). VirusTotal: 8/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T12:03:09.486407"
+  },
+  {
+    "url": "https://en-bridges.zapier.app/us-en",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 16,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3227784037590027,
+        "Phishing": 0.3531206250190735,
+        "Malware": 0.32410091161727905
+      },
+      "confidence": 0.3531206250190735
+    },
+    "vt_result": {
+      "malicious": 6,
+      "suspicious": 1,
+      "harmless": 57,
+      "undetected": 31,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 6/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T12:07:09.729368"
+  },
+  {
+    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.3511474132537842,
+    "threat_score": 37,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32427167892456055,
+        "Phishing": 0.3511474132537842,
+        "Malware": 0.32458099722862244
+      },
+      "confidence": 0.3511474132537842
+    },
+    "vt_result": {
+      "malicious": 9,
+      "suspicious": 1,
+      "harmless": 55,
+      "undetected": 30,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-64aaaf954421553707448008e1f79eabe284e674d2313d59670554284de6ee08-78821ccc/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "MALWARE"
+      ],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.11% confidence). VirusTotal: 9/95 engines flagged as malicious. Google Safe Browsing: Threats detected - MALWARE. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-15T12:56:30.978036",
+    "scan_type": "url"
+  },
+  {
+    "verdict": "SUSPICIOUS",
+    "overall_score": 27,
+    "sender_analysis": {
+      "email": "support@amazon-security.com",
+      "domain": "amazon-security.com",
+      "is_spoofed": false,
+      "spoofed_brand": "",
+      "risk_score": 20,
+      "reason": "No obvious spoofing indicators detected"
+    },
+    "subject_analysis": {
+      "subject": "URGENT: Your Amazon Account Will Be Suspended",
+      "risk_score": 40,
+      "triggered_keywords": [
+        "urgent",
+        "suspended"
+      ],
+      "category": "URGENCY",
+      "reason": "Subject uses high-pressure language"
+    },
+    "body_analysis": {
+      "risk_score": 40,
+      "credential_phrases": [
+        "verify your account"
+      ],
+      "suspicious_patterns": [],
+      "manipulation_tactics": [
+        "fake urgency timer"
+      ],
+      "reason": "Body contains suspicious patterns"
+    },
+    "url_results": [
+      {
+        "url": "https://amazon-secure-login.com/verify",
+        "verdict": "SAFE",
+        "confidence": 1.0,
+        "threat_score": 14,
+        "ai_result": {
+          "prediction": "Phishing",
+          "probabilities": {
+            "Benign": 0.3263547718524933,
+            "Phishing": 0.3531297743320465,
+            "Malware": 0.3205154538154602
+          },
+          "confidence": 0.3531297743320465
+        },
+        "vt_result": {
+          "malicious": 1,
+          "suspicious": 0,
+          "harmless": 59,
+          "undetected": 35,
+          "total_engines": 95,
+          "scan_url": "https://www.virustotal.com/gui/url/u-de045427eecdc8315c649b46c887666fe76173da260201deb4f67405b1247ff6-3179764f/detection",
+          "threat_names": []
+        },
+        "gsb_result": {
+          "is_safe": true,
+          "threat_types": [],
+          "platform_types": []
+        },
+        "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 1/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE"
+      }
+    ],
+    "explanation": "Sender risk: 20, Subject risk: 40, Body risk: 40, Worst URL risk: 14.",
+    "timestamp": "2026-03-15T13:13:04.976658",
+    "scan_type": "email"
+  },
+  {
+    "url": "https://en-bridges.zapier.app/us-en",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 17,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3227784037590027,
+        "Phishing": 0.3531206250190735,
+        "Malware": 0.32410091161727905
+      },
+      "confidence": 0.3531206250190735
+    },
+    "vt_result": {
+      "malicious": 8,
+      "suspicious": 1,
+      "harmless": 55,
+      "undetected": 31,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-b353ebde79744ba759b8d606844f12dde1ccdbb118b8bb65d7be813e4846f7db-5d46e208/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 8/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T13:36:34.687170",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://login.steamspowered.com.es/c17babb16/openid/login?openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.sreg.optional=nickname%2Cemail%2Cfullname%2Cdob%2Cgender%2Cpostcode%2Ccountry%2Clanguage%2Ctimezone&openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.ax.mode=fetch_request&openid.ax.type.fullnamei",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 22,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32845643162727356,
+        "Phishing": 0.348018079996109,
+        "Malware": 0.3235255181789398
+      },
+      "confidence": 0.348018079996109
+    },
+    "vt_result": {
+      "malicious": 21,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 24,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-17cc6ccc5a37f1c15990996a3833c4c01d2a847f9662de4f47e4e02f5d50ef4f-6fba1686/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (34.80% confidence). VirusTotal: 21/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T13:38:01.399903",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://agence-insina.com/uu/wf0A0m5AyyCf33zr",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 14,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3271711766719818,
+        "Phishing": 0.3475247919559479,
+        "Malware": 0.32530397176742554
+      },
+      "confidence": 0.3475247919559479
+    },
+    "vt_result": {
+      "malicious": 1,
+      "suspicious": 0,
+      "harmless": 61,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-f9125f227b2229ad07a1f06baaeb9a2c8c16b03c0ed334dc4d14732b0bf82071-340d0632/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (34.75% confidence). VirusTotal: 1/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T13:39:04.380204",
+    "scan_type": "url"
+  },
+  {
+    "verdict": "SUSPICIOUS",
+    "overall_score": 27,
+    "sender_analysis": {
+      "email": "support@amazon-security.com",
+      "domain": "amazon-security.com",
+      "is_spoofed": false,
+      "spoofed_brand": "",
+      "risk_score": 20,
+      "reason": "No obvious spoofing indicators detected"
+    },
+    "subject_analysis": {
+      "subject": "URGENT: Your Amazon Account Will Be Suspended",
+      "risk_score": 40,
+      "triggered_keywords": [
+        "urgent",
+        "suspended"
+      ],
+      "category": "URGENCY",
+      "reason": "Subject uses high-pressure language"
+    },
+    "body_analysis": {
+      "risk_score": 40,
+      "credential_phrases": [
+        "verify your account"
+      ],
+      "suspicious_patterns": [],
+      "manipulation_tactics": [
+        "fake urgency timer"
+      ],
+      "reason": "Body contains suspicious patterns"
+    },
+    "url_results": [
+      {
+        "url": "https://amazon-secure-login.com/verify",
+        "verdict": "SAFE",
+        "confidence": 1.0,
+        "threat_score": 14,
+        "ai_result": {
+          "prediction": "Phishing",
+          "probabilities": {
+            "Benign": 0.3263547718524933,
+            "Phishing": 0.3531297743320465,
+            "Malware": 0.3205154538154602
+          },
+          "confidence": 0.3531297743320465
+        },
+        "vt_result": {
+          "malicious": 1,
+          "suspicious": 0,
+          "harmless": 60,
+          "undetected": 34,
+          "total_engines": 95,
+          "scan_url": "https://www.virustotal.com/gui/url/u-de045427eecdc8315c649b46c887666fe76173da260201deb4f67405b1247ff6-403803da/detection",
+          "threat_names": []
+        },
+        "gsb_result": {
+          "is_safe": true,
+          "threat_types": [],
+          "platform_types": []
+        },
+        "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 1/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE"
+      }
+    ],
+    "explanation": "Sender risk: 20, Subject risk: 40, Body risk: 40, Worst URL risk: 14.",
+    "timestamp": "2026-03-15T13:39:59.666897",
+    "scan_type": "email"
+  },
+  {
+    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.3511474132537842,
+    "threat_score": 37,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32427167892456055,
+        "Phishing": 0.3511474132537842,
+        "Malware": 0.32458099722862244
+      },
+      "confidence": 0.3511474132537842
+    },
+    "vt_result": {
+      "malicious": 9,
+      "suspicious": 1,
+      "harmless": 55,
+      "undetected": 30,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-64aaaf954421553707448008e1f79eabe284e674d2313d59670554284de6ee08-5351ad81/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "MALWARE"
+      ],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.11% confidence). VirusTotal: 9/95 engines flagged as malicious. Google Safe Browsing: Threats detected - MALWARE. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-15T14:15:05.662211",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://dslrnerd.com/docomo/",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.3541012108325958,
+    "threat_score": 37,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.32184556126594543,
+        "Phishing": 0.3541012108325958,
+        "Malware": 0.32405325770378113
+      },
+      "confidence": 0.3541012108325958
+    },
+    "vt_result": {
+      "malicious": 7,
+      "suspicious": 0,
+      "harmless": 55,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-6dfcdc058fabb410476eb011762faee981426f9649b2a00f7320bd17af558e4c-656cb546/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "SOCIAL_ENGINEERING"
+      ],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.41% confidence). VirusTotal: 7/95 engines flagged as malicious. Google Safe Browsing: Threats detected - SOCIAL_ENGINEERING. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-15T14:16:10.745084",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://xysgbi.cn/g1/g/2ds=docomos/",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.3524097204208374,
+    "threat_score": 37,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.323624849319458,
+        "Phishing": 0.3524097204208374,
+        "Malware": 0.3239654302597046
+      },
+      "confidence": 0.3524097204208374
+    },
+    "vt_result": {
+      "malicious": 7,
+      "suspicious": 0,
+      "harmless": 55,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-9d900fce57130969449e0a04310a5caa3d687716e748a6afacdb562172da70fe-38e5b4b3/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "SOCIAL_ENGINEERING"
+      ],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (35.24% confidence). VirusTotal: 7/95 engines flagged as malicious. Google Safe Browsing: Threats detected - SOCIAL_ENGINEERING. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-15T14:18:26.403286",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0",
+    "verdict": "SAFE",
+    "confidence": 1.0,
+    "threat_score": 20,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.3261677026748657,
+        "Phishing": 0.34929385781288147,
+        "Malware": 0.32453837990760803
+      },
+      "confidence": 0.34929385781288147
+    },
+    "vt_result": {
+      "malicious": 16,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 29,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-c2c725ded1db61d6632bc3cde4df932dbcd8101b5b11ace9233a15c51670a560-203c74e9/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Phishing (34.93% confidence). VirusTotal: 16/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
+    "timestamp": "2026-03-15T15:37:03.402245",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:35:08.252118",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:35:33.306630",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:35:48.969848",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:36:16.003979",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:40:27.302673",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:41:20.008979",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:42:37.452944",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
+    "timestamp": "2026-03-17T13:44:29.366750",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-132ef379/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T14:20:56.505810",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-132ef379/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T14:25:28.388211",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE SUSPICIOUS",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-8c600e3a6df6372a6c6682cb87aac55a6bb3e77c5488765e4617faeca2fd92db-b69324b9/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%25C5%259B%25C4%2587-wifi-cellular-48b3c8f0%20SAFE%20SUSPICIOUS%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T14:37:47.641894",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 17,
+      "suspicious": 1,
+      "harmless": 50,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-582c612f/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%25C5%259B%25C4%2587-wifi-cellular-48b3c8f0%20SAFE%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 17/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T14:48:08.443813",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-62d445d1/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%25C5%259B%25C4%2587-wifi-cellular-48b3c8f0%20SAFE%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T15:07:22.944356",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-62d445d1/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%25C5%259B%25C4%2587-wifi-cellular-48b3c8f0%20SAFE%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T15:08:07.806732",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
+    "verdict": "SUSPICIOUS",
+    "confidence": 1.0,
+    "threat_score": 41,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 18,
+      "suspicious": 1,
+      "harmless": 49,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-62d445d1/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%25C5%259B%25C4%2587-wifi-cellular-48b3c8f0%20SAFE%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
+    "timestamp": "2026-03-17T15:13:53.546954",
+    "scan_type": "url"
+  }
+]

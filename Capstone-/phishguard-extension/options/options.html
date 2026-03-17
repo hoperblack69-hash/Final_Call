@@ -1,0 +1,38 @@
+<!-- options/options.html — PhishGuard Settings Page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=380, initial-scale=1.0">
+  <title>PhishGuard Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div class="settings-card">
+    <div class="settings-title">⚙️ PhishGuard Settings</div>
+    <div class="setting-row">
+      <span class="setting-label">Auto-scan tabs</span>
+      <input type="checkbox" id="auto_scan">
+    </div>
+    <div class="setting-row">
+      <span class="setting-label">Desktop alerts</span>
+      <input type="checkbox" id="show_notifications">
+    </div>
+    <div class="setting-row">
+      <span class="setting-label">Block malware pages</span>
+      <input type="checkbox" id="block_malware">
+    </div>
+    <div class="setting-row">
+      <span class="setting-label">Backend URL:</span>
+      <input type="text" id="backend_url">
+    </div>
+    <div class="setting-row" style="flex-direction:column;align-items:flex-start;">
+      <span class="setting-label">Trusted Sites (whitelist):</span>
+      <ul id="whitelist-list"></ul>
+    </div>
+    <button id="save-btn">Save Settings</button>
+    <div id="toast">Settings saved ✓</div>
+  </div>
+  <script src="options.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+httpx
+python-multipart
+
+torch
+torchvision
+transformers
+pandas
+numpy
+scikit-learn
+tqdm
