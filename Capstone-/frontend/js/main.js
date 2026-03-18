@@ -25,7 +25,7 @@ async function handleURLScan(e) {
         return;
     }
 
-    showLoadingState('Scanning URL...');
+    showCinematicLoading();
 
     try {
         const result = await scanUrl(url);
@@ -50,7 +50,7 @@ async function handleEmailScan(e) {
         return;
     }
 
-    showLoadingState('Analyzing email...');
+    showCinematicLoading();
 
     try {
         const result = await scanEmail(sender, subject, body);
@@ -73,11 +73,49 @@ function validateURL(url) {
     }
 }
 
-function showLoadingState(message = 'SCANNING...') {
-    document.getElementById('loading').classList.remove('hidden');
-    document.getElementById('results').classList.add('hidden');
-    document.getElementById('loadingText').textContent = message;
+// Cinematic loading screen with typewriter messages and animations
+async function showCinematicLoading() {
+    const messages = [
+        "🔍 Initializing threat analysis engine...",
+        "🌐 Resolving DNS and checking domain reputation...",
+        "🤖 Running ML classifier — scanning patterns...",
+        "🛡️ Cross-referencing 95 detection signal databases...",
+        "📊 Calculating final threat score...",
+        "✅ Analysis complete. Preparing results..."
+    ];
+
+    const loadingDiv = document.getElementById('loading');
+    const loadingText = document.getElementById('loadingText');
+    const resultsDiv = document.getElementById('results');
+
+    loadingDiv.classList.remove('hidden');
+    resultsDiv.classList.add('hidden');
     document.querySelectorAll('button').forEach(btn => (btn.disabled = true));
+
+    const startTime = Date.now();
+    let messageIndex = 0;
+
+    // Cycle through messages every 1.2s
+    const messageInterval = setInterval(() => {
+        if (messageIndex < messages.length) {
+            loadingText.textContent = messages[messageIndex];
+            messageIndex++;
+        } else {
+            messageIndex = 0;
+        }
+    }, 1200);
+
+    // Ensure minimum 2.5s display time
+    await new Promise(resolve => {
+        const checkDone = setInterval(() => {
+            const elapsed = Date.now() - startTime;
+            if (elapsed >= 2500) {
+                clearInterval(checkDone);
+                clearInterval(messageInterval);
+                resolve();
+            }
+        }, 100);
+    });
 }
 
 function hideLoadingState() {
@@ -111,7 +149,7 @@ function renderScanHistory(scans) {
 
     scans.slice(-10).reverse().forEach(scan => {
         const item = document.createElement('div');
-        item.className = 'history-item';
+        item.className = `history-item ${scan.verdict.toLowerCase()}`;
         item.onclick = () => {
             if (scan.scan_type === 'email') {
                 renderEmailResults(scan);

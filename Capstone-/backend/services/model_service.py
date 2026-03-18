@@ -28,6 +28,69 @@ except Exception as exc:
 _model = None
 _tokenizer = None
 
+# TRUSTED DOMAIN WHITELIST - Prevents false positives on legitimate sites
+TRUSTED_DOMAINS = {
+    # Tech Giants
+    "google.com", "youtube.com", "facebook.com", "instagram.com",
+    "twitter.com", "x.com", "github.com", "microsoft.com", "apple.com",
+    "amazon.com", "wikipedia.org", "reddit.com", "linkedin.com",
+    "netflix.com", "spotify.com", "whatsapp.com", "telegram.org",
+    "stackoverflow.com", "medium.com", "notion.so", "figma.com",
+    # Indian Educational Institutions
+    "lpu.in", "edu", "ac.in", "gov",
+    # Add domain extensions that should be checked as subdomains
+}
+
+def _extract_root_domain(url: str) -> str:
+    """Extract root domain from URL for whitelist comparison"""
+    try:
+        parsed = urlparse(url)
+        hostname = (parsed.hostname or "").lower()
+        if not hostname:
+            return ""
+        
+        parts = hostname.split(".")
+        
+        # Handle special cases
+        if hostname.endswith(".ac.in"):
+            return ".".join(parts[-3:])  # e.g., iit.ac.in
+        if hostname.endswith(".edu"):
+            return ".".join(parts[-2:])  # e.g., mit.edu
+        if hostname.endswith(".gov"):
+            return ".".join(parts[-2:])  # e.g., whitehouse.gov
+        if hostname.endswith(".org"):
+            return ".".join(parts[-2:])  # e.g., wikipedia.org
+        if hostname.endswith(".co.uk"):
+            return ".".join(parts[-3:])  # e.g., bbc.co.uk
+        
+        # Default: return last 2 parts
+        if len(parts) >= 2:
+            return ".".join(parts[-2:])
+        return hostname
+    except Exception:
+        return ""
+
+def _is_domain_trusted(url: str) -> bool:
+    """Check if domain is in trusted whitelist"""
+    domain = _extract_root_domain(url)
+    if not domain:
+        return False
+    
+    # Direct match check
+    if domain in TRUSTED_DOMAINS:
+        return True
+    
+    # Check for special suffixes
+    if domain.endswith(".edu") or domain.endswith(".gov") or domain.endswith(".ac.in"):
+        return True
+    
+    # Check parent domain for known trusted TLDs
+    for trusted in TRUSTED_DOMAINS:
+        if domain == trusted or domain.endswith("." + trusted):
+            return True
+    
+    return False
+
 
 def _fallback_result(reason: str) -> Dict[str, str]:
     return {"mode": "heuristic", "reason": reason}
@@ -166,6 +229,17 @@ def encode_chars(text: str, max_len: int):
 
 
 def predict(url: str, js_trace: str = ""):
+    # CRITICAL: Check whitelist FIRST to prevent false positives on trusted domains
+    if _is_domain_trusted(url):
+        return {
+            "prediction": "Benign",
+            "probabilities": {"Benign": 0.99, "Phishing": 0.005, "Malware": 0.005},
+            "confidence": 0.99,
+            "mode": "whitelist",
+            "whitelist_match": True,
+            "is_trusted_domain": True,
+        }
+    
     model = load_model("models/multi_channel_phishing.pth")
     if isinstance(model, dict) and model.get("mode") == "heuristic":
         return _heuristic_predict(url, js_trace)
@@ -192,4 +266,5 @@ def predict(url: str, js_trace: str = ""):
         "probabilities": {classes[i]: float(probs[i]) for i in range(3)},
         "confidence": float(probs[pred_idx]),
         "mode": "model",
+        "is_trusted_domain": False,
     }

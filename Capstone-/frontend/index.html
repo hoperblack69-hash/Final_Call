@@ -3,14 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phishing Detector</title>
+    <title>🛡️ Multi-Channel Phishing Detector - Advanced AI Protection</title>
     <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🛡️ MULTI-CHANNEL PHISHING DETECTOR</h1>
-            <p>Advanced AI-powered threat analysis.</p>
+            <div class="shield-icon">🛡️</div>
+            <h1>MULTI-CHANNEL PHISHING DETECTOR</h1>
+            <p>Advanced AI-powered threat analysis powered by 95+ detection signals</p>
         </header>
         
         <main>
@@ -26,8 +28,6 @@
                             <label for="url">Target URL</label>
                             <input type="url" id="url" placeholder="https://example.com" required>
                         </div>
-
-
                         <button type="submit" id="scanBtn" class="primary">SCAN URL</button>
                     </form>
                 </section>
@@ -55,8 +55,9 @@
             </div>
 
             <div id="loading" class="hidden">
-                <div class="radar"></div>
-                <p id="loadingText">SCANNING...</p>
+                <div class="scanline"></div>
+                <div class="shield-spinner">🛡️</div>
+                <p id="loadingText">🔍 Initializing threat analysis engine...</p>
             </div>
 
             <div id="results" class="hidden">
@@ -65,7 +66,7 @@
         </main>
         
         <aside id="history">
-            <h3>Scan History</h3>
+            <h3>📋 Scan History</h3>
             <div id="historyList"></div>
             <button id="clearHistory">Clear History</button>
         </aside>

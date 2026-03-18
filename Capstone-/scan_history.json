@@ -1429,5 +1429,558 @@
     "fusion_explanation": "Classifier output indicates Benign with 85.00% confidence. Independent detection checks reported 18/95 malicious findings. Supplementary web safety validation did not identify direct threat matches. Overall verdict: SUSPICIOUS.",
     "timestamp": "2026-03-17T15:13:53.546954",
     "scan_type": "url"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DSFRGeGE2C6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 62,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-f6e241c12eda214d3f79c736d26f6ae46e4237e30fbd931fd0776c92f985a300-6c862d28/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//www.instagram.com/reel/DSFRGeGE2C6/%3Futm_source%3Dig_web_copy_link%26igsh%3DMzRlODBiNWFlZA%3D%3D%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T03:06:49.903141",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DSH9teVk_Xe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 64,
+      "undetected": 31,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-f5bf6a8f92f77a4d6d1878453c12ea07d865ae83f6c36c44e24cf648ed4a5674-33e73fe4/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//www.instagram.com/reel/DSH9teVk_Xe/%3Futm_source%3Dig_web_copy_link%26igsh%3DMzRlODBiNWFlZA%3D%3D%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T03:11:56.435092",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://ums.lpu.in/lpuums/",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 62,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-84a999222a7cca2fa7a02661667cbfe6be025f4d96c364bc01d2e0410214f192-769a885b/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019bf3cb-47de-712f-a4c8-18a5b92ff7f2/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T06:27:08.302510",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://ums.lpu.in/lpuums/",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 62,
+      "undetected": 33,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-84a999222a7cca2fa7a02661667cbfe6be025f4d96c364bc01d2e0410214f192-769a885b/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019bf3cb-47de-712f-a4c8-18a5b92ff7f2/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T06:27:10.569453",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://www.google.com/",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 69,
+      "undetected": 26,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-d0e196a0c25d35dd0a84593cbae0f38333aa58529936444ea26453eab28dfc86-17d145e5/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019cffa0-1702-7227-b6f6-9166cdeac15d/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T06:27:41.292881",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://biometrie-carte-public.com/",
+    "verdict": "SAFE",
+    "confidence": 0.95,
+    "threat_score": 9,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 3,
+      "suspicious": 1,
+      "harmless": 56,
+      "undetected": 35,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-c6ac918af6f5095bead7ea05a868d345db7db30b3face14a414bbeb1327d185b-e80a6f42/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//biometrie-carte-public.com/%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model confidence very high (95.0% benign). Detection signals: 3/95.",
+    "timestamp": "2026-03-18T06:29:39.467578",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://b1.agblgi4.vu/veri/webmai1/",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.5,
+    "threat_score": 26,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 19,
+      "suspicious": 0,
+      "harmless": 47,
+      "undetected": 29,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-cba231e59889c8c34554dbda6ddbd2f85ac5e1c6a9f05bc4debf3132ad541775-e5766245/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "SOCIAL_ENGINEERING"
+      ],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019cfee2-d93b-744b-8bb9-bb8a31558ed3/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Mixed signals detected. ML: 95.0% benign, 3.8% phishing. External detections: 19/95.",
+    "timestamp": "2026-03-18T06:30:58.152004",
+    "scan_type": "url"
+  },
+  {
+    "url": "http://allegrolokalnie.926803751094817.click",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.5,
+    "threat_score": 30,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.85,
+        "Phishing": 0.11250000000000002,
+        "Malware": 0.037500000000000006
+      },
+      "confidence": 0.85,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 20,
+      "suspicious": 1,
+      "harmless": 47,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-9e8fa4cca831c34f528cc6b155077bc2ac0c8bdd85b8738b0c31d2c5cb17363c-dcc262d0/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "SOCIAL_ENGINEERING"
+      ],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22http%3A//allegrolokalnie.926803751094817.click%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Mixed signals detected. ML: 85.0% benign, 11.3% phishing. External detections: 20/95.",
+    "timestamp": "2026-03-18T07:44:04.461675",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
+    "verdict": "LOW RISK",
+    "confidence": 0.95,
+    "threat_score": 11,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 9,
+      "suspicious": 1,
+      "harmless": 55,
+      "undetected": 30,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-64aaaf954421553707448008e1f79eabe284e674d2313d59670554284de6ee08-6ecf0159/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "MALWARE"
+      ],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019cebc1-7f0a-7142-861a-3be9a5e1f770/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model indicates mostly benign (95.0%). Minor detection signals: 9/95.",
+    "timestamp": "2026-03-18T07:47:48.012406",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://www.instagram.com/reels/DUV60CAEinF/",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 64,
+      "undetected": 31,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-389ea008a9657c9b61f3939fd0784127a428295b107043fd2f3bd8b0acbda672-cd23b51b/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//www.instagram.com/reels/DUV60CAEinF/%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T07:48:32.399575",
+    "scan_type": "url"
   }
 ]
