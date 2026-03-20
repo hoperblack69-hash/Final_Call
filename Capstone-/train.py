@@ -32,7 +32,7 @@ def train_model(model, train_loader, val_loader, num_epochs=5, learning_rate=1e-
             optimizer.zero_grad()
             
             # Forward pass
-            outputs = model(llm_ids, llm_mask, char_seq, js_seq)
+            outputs, _ = model(llm_ids, llm_mask, char_seq, js_seq)
             loss = criterion(outputs, labels)
             
             # Backward pass & optimize
@@ -57,7 +57,7 @@ def train_model(model, train_loader, val_loader, num_epochs=5, learning_rate=1e-
                 js_seq = batch['js_seq'].to(device)
                 labels = batch['label'].to(device)
                 
-                outputs = model(llm_ids, llm_mask, char_seq, js_seq)
+                outputs, _ = model(llm_ids, llm_mask, char_seq, js_seq)
                 loss = criterion(outputs, labels)
                 val_loss += loss.item()
                 
@@ -72,7 +72,7 @@ def train_model(model, train_loader, val_loader, num_epochs=5, learning_rate=1e-
         
     print("\nTraining Complete.")
     print("Final Classification Report:")
-    print(classification_report(all_labels, all_preds, target_names=["Benign", "Phishing", "Malware"]))
+    print(classification_report(all_labels, all_preds, target_names=["Benign", "Phishing", "Malware"], labels=[0, 1, 2], zero_division=0))
     
     # Save Model Weights
     torch.save(model.state_dict(), 'models/multi_channel_phishing.pth')
@@ -209,5 +209,5 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
     # 3. Quick Run (1 epoch)
-    print(f"🚀 TRAINING ON {device.upper()}...")
+    print(f"🚀 TRAINING ON {str(device).upper()}...")
     train_model(model, train_loader, val_loader, num_epochs=1, device=device)

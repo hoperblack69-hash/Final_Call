@@ -66,23 +66,38 @@ VT_API_KEY=your_virustotal_api_key
 
 ### 3. Run the Application
 
-Option A (recommended):
+Option A (recommended - single server):
 
 ```bash
 python run_server.py
 ```
 
-Option B (alternative):
+The application will be available at `http://localhost:8080`
 
+Option B (development - separate frontend):
+
+**Terminal 1 - Backend:**
 ```bash
-python -m uvicorn backend.app:app --reload --host 0.0.0.0 --port 8000
+python run_server.py
 ```
+Backend API available at: `http://localhost:8080`
 
-The application will be available at `http://localhost:8000`
+**Terminal 2 - Frontend:**
+```bash
+cd frontend
+python start_frontend.py
+```
+Frontend available at: `http://localhost:3000`
 
 ### 4. Access the Web Interface
 
-Open your browser and navigate to `http://localhost:8000/static/index.html`
+**Single Server Mode:**
+Open your browser and navigate to `http://localhost:8080/static/index.html`
+
+**Separate Frontend Mode:**
+Open your browser and navigate to `http://localhost:3000`
+
+The frontend will automatically connect to the backend API at `http://localhost:8080`.
 
 ## API Usage
 

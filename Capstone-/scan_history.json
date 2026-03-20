@@ -1,1105 +1,5 @@
 [
   {
-    "url": "https://github.com",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3216997981071472,
-        "Phishing": 0.3534272313117981,
-        "Malware": 0.32487303018569946
-      },
-      "confidence": 0.3534272313117981
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 70,
-      "undetected": 25,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:07:33.337574"
-  },
-  {
-    "url": "https://www.google.com",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32572031021118164,
-        "Phishing": 0.35104119777679443,
-        "Malware": 0.3232385218143463
-      },
-      "confidence": 0.35104119777679443
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 68,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.10% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:08:01.142223"
-  },
-  {
-    "url": "https://www.instagram.com/reel/DSFRGeGE2C6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3277013301849365,
-        "Phishing": 0.3526098132133484,
-        "Malware": 0.3196888267993927
-      },
-      "confidence": 0.3526098132133484
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 62,
-      "undetected": 33,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.26% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:10:34.621739"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 16,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3261677026748657,
-        "Phishing": 0.34929385781288147,
-        "Malware": 0.32453837990760803
-      },
-      "confidence": 0.34929385781288147
-    },
-    "vt_result": {
-      "malicious": 5,
-      "suspicious": 1,
-      "harmless": 57,
-      "undetected": 32,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (34.93% confidence). VirusTotal: 5/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:14:07.747323"
-  },
-  {
-    "url": "https://en-bridges.zapier.app/us-en",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 16,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3227784037590027,
-        "Phishing": 0.3531206250190735,
-        "Malware": 0.32410091161727905
-      },
-      "confidence": 0.3531206250190735
-    },
-    "vt_result": {
-      "malicious": 5,
-      "suspicious": 1,
-      "harmless": 59,
-      "undetected": 30,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 5/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:19:27.401136"
-  },
-  {
-    "url": "https://en-bridges.zapier.app/us-en",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 16,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3227784037590027,
-        "Phishing": 0.3531206250190735,
-        "Malware": 0.32410091161727905
-      },
-      "confidence": 0.3531206250190735
-    },
-    "vt_result": {
-      "malicious": 5,
-      "suspicious": 1,
-      "harmless": 59,
-      "undetected": 30,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 5/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:26:30.404162"
-  },
-  {
-    "url": "https://github.com",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3216997981071472,
-        "Phishing": 0.3534272313117981,
-        "Malware": 0.32487303018569946
-      },
-      "confidence": 0.3534272313117981
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 70,
-      "undetected": 25,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:29:45.868177"
-  },
-  {
-    "url": "https://github.com",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3216997981071472,
-        "Phishing": 0.3534272313117981,
-        "Malware": 0.32487303018569946
-      },
-      "confidence": 0.3534272313117981
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 70,
-      "undetected": 25,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:46:12.267313"
-  },
-  {
-    "url": "https://github.com",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3216997981071472,
-        "Phishing": 0.3534272313117981,
-        "Malware": 0.32487303018569946
-      },
-      "confidence": 0.3534272313117981
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 70,
-      "undetected": 25,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:46:27.700250"
-  },
-  {
-    "url": "https://github.com",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3216997981071472,
-        "Phishing": 0.3534272313117981,
-        "Malware": 0.32487303018569946
-      },
-      "confidence": 0.3534272313117981
-    },
-    "vt_result": {
-      "malicious": 0,
-      "suspicious": 0,
-      "harmless": 70,
-      "undetected": 25,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.34% confidence). VirusTotal: 0/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:46:45.797154"
-  },
-  {
-    "url": "http://secure-login.apple-verification.xyz/auth",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 15,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32484859228134155,
-        "Phishing": 0.3520923852920532,
-        "Malware": 0.3230590522289276
-      },
-      "confidence": 0.3520923852920532
-    },
-    "vt_result": {
-      "malicious": 4,
-      "suspicious": 1,
-      "harmless": 58,
-      "undetected": 32,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.21% confidence). VirusTotal: 4/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T11:47:09.134422"
-  },
-  {
-    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
-    "verdict": "SUSPICIOUS",
-    "confidence": 0.3511474132537842,
-    "threat_score": 37,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32427167892456055,
-        "Phishing": 0.3511474132537842,
-        "Malware": 0.32458099722862244
-      },
-      "confidence": 0.3511474132537842
-    },
-    "vt_result": {
-      "malicious": 9,
-      "suspicious": 1,
-      "harmless": 56,
-      "undetected": 29,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": false,
-      "threat_types": [
-        "MALWARE"
-      ],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.11% confidence). VirusTotal: 9/95 engines flagged as malicious. Google Safe Browsing: Threats detected - MALWARE. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-15T11:47:31.800568"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 17,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32610878348350525,
-        "Phishing": 0.35163938999176025,
-        "Malware": 0.3222518861293793
-      },
-      "confidence": 0.35163938999176025
-    },
-    "vt_result": {
-      "malicious": 8,
-      "suspicious": 0,
-      "harmless": 55,
-      "undetected": 32,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.16% confidence). VirusTotal: 8/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T12:03:09.486407"
-  },
-  {
-    "url": "https://en-bridges.zapier.app/us-en",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 16,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3227784037590027,
-        "Phishing": 0.3531206250190735,
-        "Malware": 0.32410091161727905
-      },
-      "confidence": 0.3531206250190735
-    },
-    "vt_result": {
-      "malicious": 6,
-      "suspicious": 1,
-      "harmless": 57,
-      "undetected": 31,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 6/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T12:07:09.729368"
-  },
-  {
-    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
-    "verdict": "SUSPICIOUS",
-    "confidence": 0.3511474132537842,
-    "threat_score": 37,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32427167892456055,
-        "Phishing": 0.3511474132537842,
-        "Malware": 0.32458099722862244
-      },
-      "confidence": 0.3511474132537842
-    },
-    "vt_result": {
-      "malicious": 9,
-      "suspicious": 1,
-      "harmless": 55,
-      "undetected": 30,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-64aaaf954421553707448008e1f79eabe284e674d2313d59670554284de6ee08-78821ccc/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": false,
-      "threat_types": [
-        "MALWARE"
-      ],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.11% confidence). VirusTotal: 9/95 engines flagged as malicious. Google Safe Browsing: Threats detected - MALWARE. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-15T12:56:30.978036",
-    "scan_type": "url"
-  },
-  {
-    "verdict": "SUSPICIOUS",
-    "overall_score": 27,
-    "sender_analysis": {
-      "email": "support@amazon-security.com",
-      "domain": "amazon-security.com",
-      "is_spoofed": false,
-      "spoofed_brand": "",
-      "risk_score": 20,
-      "reason": "No obvious spoofing indicators detected"
-    },
-    "subject_analysis": {
-      "subject": "URGENT: Your Amazon Account Will Be Suspended",
-      "risk_score": 40,
-      "triggered_keywords": [
-        "urgent",
-        "suspended"
-      ],
-      "category": "URGENCY",
-      "reason": "Subject uses high-pressure language"
-    },
-    "body_analysis": {
-      "risk_score": 40,
-      "credential_phrases": [
-        "verify your account"
-      ],
-      "suspicious_patterns": [],
-      "manipulation_tactics": [
-        "fake urgency timer"
-      ],
-      "reason": "Body contains suspicious patterns"
-    },
-    "url_results": [
-      {
-        "url": "https://amazon-secure-login.com/verify",
-        "verdict": "SAFE",
-        "confidence": 1.0,
-        "threat_score": 14,
-        "ai_result": {
-          "prediction": "Phishing",
-          "probabilities": {
-            "Benign": 0.3263547718524933,
-            "Phishing": 0.3531297743320465,
-            "Malware": 0.3205154538154602
-          },
-          "confidence": 0.3531297743320465
-        },
-        "vt_result": {
-          "malicious": 1,
-          "suspicious": 0,
-          "harmless": 59,
-          "undetected": 35,
-          "total_engines": 95,
-          "scan_url": "https://www.virustotal.com/gui/url/u-de045427eecdc8315c649b46c887666fe76173da260201deb4f67405b1247ff6-3179764f/detection",
-          "threat_names": []
-        },
-        "gsb_result": {
-          "is_safe": true,
-          "threat_types": [],
-          "platform_types": []
-        },
-        "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 1/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE"
-      }
-    ],
-    "explanation": "Sender risk: 20, Subject risk: 40, Body risk: 40, Worst URL risk: 14.",
-    "timestamp": "2026-03-15T13:13:04.976658",
-    "scan_type": "email"
-  },
-  {
-    "url": "https://en-bridges.zapier.app/us-en",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 17,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3227784037590027,
-        "Phishing": 0.3531206250190735,
-        "Malware": 0.32410091161727905
-      },
-      "confidence": 0.3531206250190735
-    },
-    "vt_result": {
-      "malicious": 8,
-      "suspicious": 1,
-      "harmless": 55,
-      "undetected": 31,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-b353ebde79744ba759b8d606844f12dde1ccdbb118b8bb65d7be813e4846f7db-5d46e208/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 8/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T13:36:34.687170",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://login.steamspowered.com.es/c17babb16/openid/login?openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&openid.sreg.optional=nickname%2Cemail%2Cfullname%2Cdob%2Cgender%2Cpostcode%2Ccountry%2Clanguage%2Ctimezone&openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.ax.mode=fetch_request&openid.ax.type.fullnamei",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 22,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32845643162727356,
-        "Phishing": 0.348018079996109,
-        "Malware": 0.3235255181789398
-      },
-      "confidence": 0.348018079996109
-    },
-    "vt_result": {
-      "malicious": 21,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 24,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-17cc6ccc5a37f1c15990996a3833c4c01d2a847f9662de4f47e4e02f5d50ef4f-6fba1686/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (34.80% confidence). VirusTotal: 21/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T13:38:01.399903",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://agence-insina.com/uu/wf0A0m5AyyCf33zr",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 14,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3271711766719818,
-        "Phishing": 0.3475247919559479,
-        "Malware": 0.32530397176742554
-      },
-      "confidence": 0.3475247919559479
-    },
-    "vt_result": {
-      "malicious": 1,
-      "suspicious": 0,
-      "harmless": 61,
-      "undetected": 33,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-f9125f227b2229ad07a1f06baaeb9a2c8c16b03c0ed334dc4d14732b0bf82071-340d0632/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (34.75% confidence). VirusTotal: 1/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T13:39:04.380204",
-    "scan_type": "url"
-  },
-  {
-    "verdict": "SUSPICIOUS",
-    "overall_score": 27,
-    "sender_analysis": {
-      "email": "support@amazon-security.com",
-      "domain": "amazon-security.com",
-      "is_spoofed": false,
-      "spoofed_brand": "",
-      "risk_score": 20,
-      "reason": "No obvious spoofing indicators detected"
-    },
-    "subject_analysis": {
-      "subject": "URGENT: Your Amazon Account Will Be Suspended",
-      "risk_score": 40,
-      "triggered_keywords": [
-        "urgent",
-        "suspended"
-      ],
-      "category": "URGENCY",
-      "reason": "Subject uses high-pressure language"
-    },
-    "body_analysis": {
-      "risk_score": 40,
-      "credential_phrases": [
-        "verify your account"
-      ],
-      "suspicious_patterns": [],
-      "manipulation_tactics": [
-        "fake urgency timer"
-      ],
-      "reason": "Body contains suspicious patterns"
-    },
-    "url_results": [
-      {
-        "url": "https://amazon-secure-login.com/verify",
-        "verdict": "SAFE",
-        "confidence": 1.0,
-        "threat_score": 14,
-        "ai_result": {
-          "prediction": "Phishing",
-          "probabilities": {
-            "Benign": 0.3263547718524933,
-            "Phishing": 0.3531297743320465,
-            "Malware": 0.3205154538154602
-          },
-          "confidence": 0.3531297743320465
-        },
-        "vt_result": {
-          "malicious": 1,
-          "suspicious": 0,
-          "harmless": 60,
-          "undetected": 34,
-          "total_engines": 95,
-          "scan_url": "https://www.virustotal.com/gui/url/u-de045427eecdc8315c649b46c887666fe76173da260201deb4f67405b1247ff6-403803da/detection",
-          "threat_names": []
-        },
-        "gsb_result": {
-          "is_safe": true,
-          "threat_types": [],
-          "platform_types": []
-        },
-        "fusion_explanation": "AI Model: Phishing (35.31% confidence). VirusTotal: 1/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE"
-      }
-    ],
-    "explanation": "Sender risk: 20, Subject risk: 40, Body risk: 40, Worst URL risk: 14.",
-    "timestamp": "2026-03-15T13:39:59.666897",
-    "scan_type": "email"
-  },
-  {
-    "url": "https://testsafebrowsing.appspot.com/s/malware.html",
-    "verdict": "SUSPICIOUS",
-    "confidence": 0.3511474132537842,
-    "threat_score": 37,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32427167892456055,
-        "Phishing": 0.3511474132537842,
-        "Malware": 0.32458099722862244
-      },
-      "confidence": 0.3511474132537842
-    },
-    "vt_result": {
-      "malicious": 9,
-      "suspicious": 1,
-      "harmless": 55,
-      "undetected": 30,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-64aaaf954421553707448008e1f79eabe284e674d2313d59670554284de6ee08-5351ad81/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": false,
-      "threat_types": [
-        "MALWARE"
-      ],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.11% confidence). VirusTotal: 9/95 engines flagged as malicious. Google Safe Browsing: Threats detected - MALWARE. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-15T14:15:05.662211",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://dslrnerd.com/docomo/",
-    "verdict": "SUSPICIOUS",
-    "confidence": 0.3541012108325958,
-    "threat_score": 37,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.32184556126594543,
-        "Phishing": 0.3541012108325958,
-        "Malware": 0.32405325770378113
-      },
-      "confidence": 0.3541012108325958
-    },
-    "vt_result": {
-      "malicious": 7,
-      "suspicious": 0,
-      "harmless": 55,
-      "undetected": 33,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-6dfcdc058fabb410476eb011762faee981426f9649b2a00f7320bd17af558e4c-656cb546/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": false,
-      "threat_types": [
-        "SOCIAL_ENGINEERING"
-      ],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.41% confidence). VirusTotal: 7/95 engines flagged as malicious. Google Safe Browsing: Threats detected - SOCIAL_ENGINEERING. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-15T14:16:10.745084",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://xysgbi.cn/g1/g/2ds=docomos/",
-    "verdict": "SUSPICIOUS",
-    "confidence": 0.3524097204208374,
-    "threat_score": 37,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.323624849319458,
-        "Phishing": 0.3524097204208374,
-        "Malware": 0.3239654302597046
-      },
-      "confidence": 0.3524097204208374
-    },
-    "vt_result": {
-      "malicious": 7,
-      "suspicious": 0,
-      "harmless": 55,
-      "undetected": 33,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-9d900fce57130969449e0a04310a5caa3d687716e748a6afacdb562172da70fe-38e5b4b3/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": false,
-      "threat_types": [
-        "SOCIAL_ENGINEERING"
-      ],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (35.24% confidence). VirusTotal: 7/95 engines flagged as malicious. Google Safe Browsing: Threats detected - SOCIAL_ENGINEERING. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-15T14:18:26.403286",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0",
-    "verdict": "SAFE",
-    "confidence": 1.0,
-    "threat_score": 20,
-    "ai_result": {
-      "prediction": "Phishing",
-      "probabilities": {
-        "Benign": 0.3261677026748657,
-        "Phishing": 0.34929385781288147,
-        "Malware": 0.32453837990760803
-      },
-      "confidence": 0.34929385781288147
-    },
-    "vt_result": {
-      "malicious": 16,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 29,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-c2c725ded1db61d6632bc3cde4df932dbcd8101b5b11ace9233a15c51670a560-203c74e9/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Phishing (34.93% confidence). VirusTotal: 16/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SAFE",
-    "timestamp": "2026-03-15T15:37:03.402245",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:35:08.252118",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:35:33.306630",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:35:48.969848",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:36:16.003979",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:40:27.302673",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:41:20.008979",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:42:37.452944",
-    "scan_type": "url"
-  },
-  {
-    "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
-    "verdict": "SUSPICIOUS",
-    "confidence": 1.0,
-    "threat_score": 41,
-    "ai_result": {
-      "prediction": "Benign",
-      "probabilities": {
-        "Benign": 0.85,
-        "Phishing": 0.11250000000000002,
-        "Malware": 0.037500000000000006
-      },
-      "confidence": 0.85,
-      "mode": "heuristic"
-    },
-    "vt_result": {
-      "malicious": 18,
-      "suspicious": 1,
-      "harmless": 49,
-      "undetected": 27,
-      "total_engines": 95,
-      "scan_url": "https://www.virustotal.com/gui/url/u-4f45548b4cafa9c1de66a9aa7837e773882aee8e2dd4ac6ffb693f2fff9b91a1-a43bea73/detection",
-      "threat_names": []
-    },
-    "gsb_result": {
-      "is_safe": true,
-      "threat_types": [],
-      "platform_types": []
-    },
-    "fusion_explanation": "AI Model: Benign (85.00% confidence). VirusTotal: 18/95 engines flagged as malicious. Google Safe Browsing: No threats detected. Overall Verdict: SUSPICIOUS",
-    "timestamp": "2026-03-17T13:44:29.366750",
-    "scan_type": "url"
-  },
-  {
     "url": "https://aliegrolokalnie.pl-85434.cfd/oferta/nowy-apple-ipad-mini-7-generacji-a17-pro-128gb-gwiezdna-szaro%C5%9B%C4%87-wifi-cellular-48b3c8f0 SAFE",
     "verdict": "SUSPICIOUS",
     "confidence": 1.0,
@@ -1981,6 +881,1883 @@
     },
     "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
     "timestamp": "2026-03-18T07:48:32.399575",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://ums.lpu.in/lpuums/",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-84a999222a7cca2fa7a02661667cbfe6be025f4d96c364bc01d2e0410214f192-cd20078f/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019bf3cb-47de-712f-a4c8-18a5b92ff7f2/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-18T08:07:41.493209",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://www.biometrie-carte-public.com/",
+    "verdict": "LOW RISK",
+    "confidence": 0.95,
+    "threat_score": 11,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 8,
+      "suspicious": 1,
+      "harmless": 54,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-93c7c061fbaace91064dcb380b741da0902edf8d17faf96dd2bcce683b1fbb34-85275c37/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//www.biometrie-carte-public.com/%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model indicates mostly benign (95.0%). Minor detection signals: 8/95.",
+    "timestamp": "2026-03-18T08:08:16.374700",
+    "scan_type": "url"
+  },
+  {
+    "url": "http://https://nomurahelp.account-repair.cfd/login",
+    "verdict": "PHISHING",
+    "confidence": 0.6,
+    "threat_score": 54,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.42,
+        "Phishing": 0.5,
+        "Malware": 0.08000000000000007
+      },
+      "confidence": 0.5,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 0,
+      "undetected": 0,
+      "total_engines": 0,
+      "scan_url": "",
+      "threat_names": [],
+      "status": "unavailable",
+      "error": "Client error '400 Bad Request' for url 'https://www.virustotal.com/api/v3/urls'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22http%3A//https%3A//nomurahelp.account-repair.cfd/login%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Significant threat indicators detected. ML: 50.0% phishing, 8.0% malware. Detection engines: 0/0 flagged.",
+    "timestamp": "2026-03-18T08:08:46.519985",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://pieknydzien.online/bank_login.php?id=261",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 32,
+    "ai_result": {
+      "prediction": "Phishing",
+      "probabilities": {
+        "Benign": 0.47000000000000003,
+        "Phishing": 0.45,
+        "Malware": 0.08000000000000002
+      },
+      "confidence": 0.45,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 2,
+      "suspicious": 0,
+      "harmless": 59,
+      "undetected": 34,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-f9400af40597d96f1dc8af92389b1f42ec480679f248d69b0b46217f843c0294-68759b25/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//pieknydzien.online/bank_login.php%3Fid%3D261%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 47.0% benign, 45.0% phishing. Signals: 2/95.",
+    "timestamp": "2026-03-18T08:24:16.327320",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://google.com",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-9d116b1b0c1200ca75016e4c010bc94836366881b021a658ea7f8548b6543c1e-fafa66f7/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0be0-5006-757e-9720-864e92b77ffc/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T16:24:26.618978",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://google.com",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 70,
+      "undetected": 25,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-9d116b1b0c1200ca75016e4c010bc94836366881b021a658ea7f8548b6543c1e-fafa66f7/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0be0-5006-757e-9720-864e92b77ffc/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T16:24:46.069279",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://www.instagram.com/reel/DSFRGeGE2C6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-f6e241c12eda214d3f79c736d26f6ae46e4237e30fbd931fd0776c92f985a300-baf24f92/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//www.instagram.com/reel/DSFRGeGE2C6/%3Futm_source%3Dig_web_copy_link%26igsh%3DMzRlODBiNWFlZA%3D%3D%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T16:32:38.457071",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://ledgeer-live.zapier.app/usa-en",
+    "verdict": "SAFE",
+    "confidence": 0.95,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 0,
+      "undetected": 0,
+      "total_engines": 0,
+      "scan_url": "",
+      "threat_names": [],
+      "status": "unavailable",
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": [],
+      "status": "unavailable",
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "[Errno 11001] getaddrinfo failed"
+    },
+    "urlscan_result": {
+      "status": "unavailable",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "error": "[Errno 11001] getaddrinfo failed",
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//ledgeer-live.zapier.app/usa-en%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model high confidence benign (95.0%). Detection signals minimal: 0/0.",
+    "timestamp": "2026-03-20T16:40:39.176864",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://brazzer.com",
+    "verdict": "SAFE",
+    "confidence": 0.95,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 64,
+      "undetected": 31,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-5929f81daac8144b280c39175cf4899571bd886759af520694f5b0b619a09dc9-931cfe3b/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "unavailable",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "error": "Client error '403 Forbidden' for url 'https://checkurl.phishtank.com/checkurl/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/29ecdf3c-5929-4481-8624-e736dd265148/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model high confidence benign (95.0%). Detection signals minimal: 0/95.",
+    "timestamp": "2026-03-20T17:00:55.974960",
+    "scan_type": "url"
+  },
+  {
+    "url": "https://ledgeer-live.zapier.app/usa-en",
+    "verdict": "SAFE",
+    "confidence": 0.95,
+    "threat_score": 18,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 9,
+      "suspicious": 1,
+      "harmless": 56,
+      "undetected": 29,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-b0be11f82a2eaab27eed8170961ff985789bf53a5b9be1b2e9dbfa25eaa43ab8-ca0af519/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c75-07c8-733d-964d-5241f4a4ff3f/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model high confidence benign (95.0%). Detection signals minimal: 9/95.",
+    "timestamp": "2026-03-20T18:19:18.340368",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://example.com",
+    "verdict": "SAFE",
+    "confidence": 0.95,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 68,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7-e4f7414a/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c42-d23f-76da-87f9-b2ecf1868f77/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model high confidence benign (95.0%). Detection signals minimal: 0/95.",
+    "timestamp": "2026-03-20T18:19:18.404120",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://example.com",
+    "verdict": "SAFE",
+    "confidence": 0.95,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.95,
+        "Phishing": 0.037500000000000006,
+        "Malware": 0.0125
+      },
+      "confidence": 0.95,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 68,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7-e4f7414a/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-12e2-763d-9e3f-66e9d95fa80c/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "ML model high confidence benign (95.0%). Detection signals minimal: 0/95.",
+    "timestamp": "2026-03-20T18:20:01.055268",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QhTF8RH0l4Q",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 1,
+      "suspicious": 0,
+      "harmless": 64,
+      "undetected": 30,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-50d4c920b7fa8b84dfc1f6ea4564221422ad46585f59e90efca83ac8b8e2efeb-38b64815/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//www.youtube.com/watch%3Fv%3DQhTF8RH0l4Q%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T18:20:04.886661",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://192.168.1.1/login",
+    "verdict": "SAFE",
+    "confidence": 0.009433962264150943,
+    "threat_score": 13,
+    "ai_result": {
+      "prediction": "Malware",
+      "probabilities": {
+        "Benign": 0.009433962264150943,
+        "Phishing": 0.18867924528301888,
+        "Malware": 0.8018867924528301
+      },
+      "confidence": 0.8018867924528301,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019c28fd-c0b4-75a5-9da9-4ef8d9c0cb41/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low threat. ML: 0.9% benign. Detection signals: 0/95.",
+    "timestamp": "2026-03-20T18:20:21.336223",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://192.168.1.1/login",
+    "verdict": "SAFE",
+    "confidence": 0.009433962264150943,
+    "threat_score": 13,
+    "ai_result": {
+      "prediction": "Malware",
+      "probabilities": {
+        "Benign": 0.009433962264150943,
+        "Phishing": 0.18867924528301888,
+        "Malware": 0.8018867924528301
+      },
+      "confidence": 0.8018867924528301,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019c28fd-c0b4-75a5-9da9-4ef8d9c0cb41/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low threat. ML: 0.9% benign. Detection signals: 0/95.",
+    "timestamp": "2026-03-20T18:20:25.741993",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://192.168.1.1/login",
+    "verdict": "SAFE",
+    "confidence": 0.009433962264150943,
+    "threat_score": 13,
+    "ai_result": {
+      "prediction": "Malware",
+      "probabilities": {
+        "Benign": 0.009433962264150943,
+        "Phishing": 0.18867924528301888,
+        "Malware": 0.8018867924528301
+      },
+      "confidence": 0.8018867924528301,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019c28fd-c0b4-75a5-9da9-4ef8d9c0cb41/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low threat. ML: 0.9% benign. Detection signals: 0/95.",
+    "timestamp": "2026-03-20T18:20:29.047719",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://paypal-secure-login.com",
+    "verdict": "LOW RISK",
+    "confidence": 0.7,
+    "threat_score": 20,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.7000000000000001,
+        "Phishing": 0.225,
+        "Malware": 0.07500000000000001
+      },
+      "confidence": 0.7000000000000001,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 15,
+      "suspicious": 0,
+      "harmless": 51,
+      "undetected": 29,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-4f0e2c42d6b67a234efcdfd310c3ee997a61856087183a2cc2ba6a851f25b201-9ed26e9a/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019cb857-8fe0-71fa-8f71-95bae6a24028/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 70.0% benign, 22.5% phishing. Signals: 15/95.",
+    "timestamp": "2026-03-20T18:20:56.055462",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://192.168.1.1/login",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.5,
+    "threat_score": 56,
+    "ai_result": {
+      "prediction": "Malware",
+      "probabilities": {
+        "Benign": 0.009433962264150943,
+        "Phishing": 0.18867924528301888,
+        "Malware": 0.8018867924528301
+      },
+      "confidence": 0.8018867924528301,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019c28fd-c0b4-75a5-9da9-4ef8d9c0cb41/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates moderate threat. ML: 18.9% phishing, 80.2% malware. Signals: 0/95.",
+    "timestamp": "2026-03-20T18:21:15.701895",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://192.168.1.1/login",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.5,
+    "threat_score": 56,
+    "ai_result": {
+      "prediction": "Malware",
+      "probabilities": {
+        "Benign": 0.009433962264150943,
+        "Phishing": 0.18867924528301888,
+        "Malware": 0.8018867924528301
+      },
+      "confidence": 0.8018867924528301,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019c28fd-c0b4-75a5-9da9-4ef8d9c0cb41/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates moderate threat. ML: 18.9% phishing, 80.2% malware. Signals: 0/95.",
+    "timestamp": "2026-03-20T18:21:19.218381",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://192.168.1.1/login",
+    "verdict": "SUSPICIOUS",
+    "confidence": 0.5,
+    "threat_score": 56,
+    "ai_result": {
+      "prediction": "Malware",
+      "probabilities": {
+        "Benign": 0.009433962264150943,
+        "Phishing": 0.18867924528301888,
+        "Malware": 0.8018867924528301
+      },
+      "confidence": 0.8018867924528301,
+      "mode": "heuristic"
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 63,
+      "undetected": 32,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019c28fd-c0b4-75a5-9da9-4ef8d9c0cb41/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates moderate threat. ML: 18.9% phishing, 80.2% malware. Signals: 0/95.",
+    "timestamp": "2026-03-20T18:21:21.866100",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 69,
+      "undetected": 26,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-09a8b930c8b79e7c313e5e741e1d59c39ae91bc1f10cdefa68b47bf77519be57-d28e76df/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-c341-72f3-8dfa-076a56d46e38/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T18:21:24.751149",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 69,
+      "undetected": 26,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-09a8b930c8b79e7c313e5e741e1d59c39ae91bc1f10cdefa68b47bf77519be57-d28e76df/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-c341-72f3-8dfa-076a56d46e38/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T18:22:05.083767",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://github.com",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 69,
+      "undetected": 26,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-09a8b930c8b79e7c313e5e741e1d59c39ae91bc1f10cdefa68b47bf77519be57-d28e76df/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-c341-72f3-8dfa-076a56d46e38/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T18:22:17.087546",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "verdict": "SUSPICIOUS",
+    "overall_score": 43,
+    "sender_analysis": {
+      "email": "support@bank.com",
+      "domain": "bank.com",
+      "is_spoofed": true,
+      "spoofed_brand": "bank",
+      "risk_score": 70,
+      "reason": "Domain 'bank.com' is a lookalike of 'bank.com'"
+    },
+    "subject_analysis": {
+      "subject": "Urgent: Account Verification",
+      "risk_score": 25,
+      "triggered_keywords": [
+        "urgent"
+      ],
+      "category": "URGENCY",
+      "reason": "Subject uses high-pressure language"
+    },
+    "body_analysis": {
+      "risk_score": 15,
+      "credential_phrases": [],
+      "suspicious_patterns": [],
+      "manipulation_tactics": [],
+      "reason": "No major suspicious patterns detected"
+    },
+    "url_results": [
+      {
+        "url": "http://192.168.1.1/login",
+        "verdict": "SUSPICIOUS",
+        "confidence": 0.5,
+        "threat_score": 56,
+        "ai_result": {
+          "prediction": "Malware",
+          "probabilities": {
+            "Benign": 0.009433962264150943,
+            "Phishing": 0.18867924528301888,
+            "Malware": 0.8018867924528301
+          },
+          "confidence": 0.8018867924528301,
+          "mode": "heuristic"
+        },
+        "vt_result": {
+          "malicious": 0,
+          "suspicious": 0,
+          "harmless": 63,
+          "undetected": 32,
+          "total_engines": 95,
+          "scan_url": "https://www.virustotal.com/gui/url/u-0ae64be9c236770da50ef5e0e6846e57a313b3a456ec0d9c14dc9a7507e46b1e-88833cee/detection",
+          "threat_names": []
+        },
+        "gsb_result": {
+          "is_safe": true,
+          "threat_types": [],
+          "platform_types": []
+        },
+        "fusion_explanation": "Weighted analysis indicates moderate threat. ML: 18.9% phishing, 80.2% malware. Signals: 0/95."
+      }
+    ],
+    "explanation": "Sender risk: 70, Subject risk: 25, Body risk: 15, Worst URL risk: 56.",
+    "timestamp": "2026-03-20T18:22:47.542494",
+    "scan_type": "email"
+  },
+  {
+    "url": "http://allegro.pl-oferta568942.sbs",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 28,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.3588486909866333,
+        "Phishing": 0.30371737480163574,
+        "Malware": 0.3374338746070862
+      },
+      "confidence": 0.3588486909866333,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "malicious": 16,
+      "suspicious": 1,
+      "harmless": 51,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-04edf819ee05f9a1e093f51f0281af11d6fd2f0fad306f06320d72864804b16d-f74905d1/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "SOCIAL_ENGINEERING"
+      ],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22http%3A//allegro.pl-oferta568942.sbs%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 35.9% benign, 30.4% phishing. Signals: 16/95.",
+    "timestamp": "2026-03-20T18:33:00.258822",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://example.com",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 23,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.35533198714256287,
+        "Phishing": 0.30883172154426575,
+        "Malware": 0.335836261510849
+      },
+      "confidence": 0.35533198714256287,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 68,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7-d8d67232/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-12e2-763d-9e3f-66e9d95fa80c/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 35.5% benign, 30.9% phishing. Signals: 0/95.",
+    "timestamp": "2026-03-20T18:33:55.390897",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://example.com",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 23,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.35533198714256287,
+        "Phishing": 0.30883172154426575,
+        "Malware": 0.335836261510849
+      },
+      "confidence": 0.35533198714256287,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 68,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7-d8d67232/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-12e2-763d-9e3f-66e9d95fa80c/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 35.5% benign, 30.9% phishing. Signals: 0/95.",
+    "timestamp": "2026-03-20T18:33:56.623736",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://example.com",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 23,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.35533198714256287,
+        "Phishing": 0.30883172154426575,
+        "Malware": 0.335836261510849
+      },
+      "confidence": 0.35533198714256287,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 68,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7-d8d67232/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c79-12e2-763d-9e3f-66e9d95fa80c/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 35.5% benign, 30.9% phishing. Signals: 0/95.",
+    "timestamp": "2026-03-20T18:34:04.250165",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://sso-en-kuccoin.webflow.io/",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 29,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.3570265769958496,
+        "Phishing": 0.3061242401599884,
+        "Malware": 0.3368491530418396
+      },
+      "confidence": 0.3570265769958496,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "malicious": 19,
+      "suspicious": 1,
+      "harmless": 48,
+      "undetected": 27,
+      "total_engines": 95,
+      "scan_url": "https://www.virustotal.com/gui/url/u-ecc2c186e10ed95a91aba86f7bfd8d2c1af150d2d4acb2f625c63bb4f8ac7c12-f07c9919/detection",
+      "threat_names": []
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": true,
+      "malicious": false,
+      "score": 0,
+      "categories": [],
+      "report_url": "https://urlscan.io/api/v1/result/019d0c8c-d192-741c-bb66-63853ead6ca7/"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 35.7% benign, 30.6% phishing. Signals: 19/95.",
+    "timestamp": "2026-03-20T18:47:33.936601",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://google.com",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 0,
+      "undetected": 0,
+      "total_engines": 0
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "skipped",
+      "found": false,
+      "malicious": false,
+      "score": 0
+    },
+    "checkphish_result": {
+      "status": "skipped",
+      "malicious": false,
+      "score": 0
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T19:01:25.532033",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "http://allegrolokalnie.926803751094817.click",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 23,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.35842159390449524,
+        "Phishing": 0.30617615580558777,
+        "Malware": 0.3354021906852722
+      },
+      "confidence": 0.35842159390449524,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "status": "timeout",
+      "error": "API timeout after 3s"
+    },
+    "gsb_result": {
+      "is_safe": false,
+      "threat_types": [
+        "SOCIAL_ENGINEERING"
+      ],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22http%3A//allegrolokalnie.926803751094817.click%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 35.8% benign, 30.6% phishing. Signals: 0/95.",
+    "timestamp": "2026-03-20T19:06:53.460991",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://github.com/copilot/c/47dd84c5-a03e-41c9-9221-82267f6f4455",
+    "verdict": "SAFE",
+    "confidence": 0.99,
+    "threat_score": 5,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.99,
+        "Phishing": 0.005,
+        "Malware": 0.005
+      },
+      "confidence": 0.99,
+      "mode": "whitelist",
+      "whitelist_match": true,
+      "is_trusted_domain": true
+    },
+    "vt_result": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 0,
+      "undetected": 0,
+      "total_engines": 0
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "skipped",
+      "found": false,
+      "malicious": false,
+      "score": 0
+    },
+    "checkphish_result": {
+      "status": "skipped",
+      "malicious": false,
+      "score": 0
+    },
+    "fusion_explanation": "Domain is on verified trusted list. No threat detected.",
+    "timestamp": "2026-03-20T19:07:14.090882",
+    "explanation": null,
+    "scan_type": "url"
+  },
+  {
+    "url": "https://claude.ai/chat/0d617e7a-24e1-4b84-8ad3-10d9d59b5e55",
+    "verdict": "LOW RISK",
+    "confidence": 0.5,
+    "threat_score": 23,
+    "ai_result": {
+      "prediction": "Benign",
+      "probabilities": {
+        "Benign": 0.35978174209594727,
+        "Phishing": 0.3001302480697632,
+        "Malware": 0.3400879502296448
+      },
+      "confidence": 0.35978174209594727,
+      "mode": "model",
+      "is_trusted_domain": false,
+      "attention_weights": []
+    },
+    "vt_result": {
+      "status": "timeout",
+      "error": "API timeout after 3s"
+    },
+    "gsb_result": {
+      "is_safe": true,
+      "threat_types": [],
+      "platform_types": []
+    },
+    "phishtank_result": {
+      "status": "ok",
+      "in_database": false,
+      "is_phish": false,
+      "verified": false,
+      "phish_id": null,
+      "submitted_at": null,
+      "mode": "OFFLINE_CSV"
+    },
+    "urlscan_result": {
+      "status": "ok",
+      "found": false,
+      "malicious": false,
+      "score": 0,
+      "report_url": "https://urlscan.io/search/#page.url%3A%22https%3A//claude.ai/chat/0d617e7a-24e1-4b84-8ad3-10d9d59b5e55%22"
+    },
+    "checkphish_result": {
+      "status": "not_configured",
+      "malicious": false,
+      "score": 0,
+      "message": "Set CHECKPHISH_API_KEY to enable this module"
+    },
+    "fusion_explanation": "Weighted analysis indicates low-to-moderate risk. ML: 36.0% benign, 30.0% phishing. Signals: 0/95.",
+    "timestamp": "2026-03-20T19:07:42.303081",
+    "explanation": null,
     "scan_type": "url"
   }
 ]

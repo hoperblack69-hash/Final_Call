@@ -58,7 +58,7 @@ class PhishingDetector:
         js_seq = encoded_js.to(self.device)
         
         # Inference
-        outputs = self.model(llm_ids, llm_mask, char_seq, js_seq)
+        outputs, _ = self.model(llm_ids, llm_mask, char_seq, js_seq)
         
         # Softmax probabilities
         probs = torch.nn.functional.softmax(outputs, dim=1).squeeze(0).cpu().numpy()

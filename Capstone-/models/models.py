@@ -19,10 +19,11 @@ class URLTransformerChannel(nn.Module):
         )
 
     def forward(self, input_ids, attention_mask):
-        outputs = self.transformer(input_ids=input_ids, attention_mask=attention_mask)
+        outputs = self.transformer(input_ids=input_ids, attention_mask=attention_mask, output_attentions=False)
         # Use the [CLS] token representation (index 0)
         cls_output = outputs.last_hidden_state[:, 0, :]
-        return self.feature_extractor(cls_output)
+        # Return features and empty attentions list
+        return self.feature_extractor(cls_output), []
 
 
 class CharCNNChannel(nn.Module):
@@ -104,14 +105,14 @@ class MultiChannelFusionNetwork(nn.Module):
         self.classifier = nn.Linear(128, num_classes)
 
     def forward(self, llm_ids, llm_mask, char_seq, js_seq):
-        llm_feat = self.llm_channel(llm_ids, llm_mask)
+        llm_feat, attentions = self.llm_channel(llm_ids, llm_mask)
         cnn_feat = self.cnn_channel(char_seq)
         js_feat = self.js_channel(js_seq)
         
         fused_features = torch.cat((llm_feat, cnn_feat, js_feat), dim=1)
         fused = self.fusion(fused_features)
         
-        return self.classifier(fused)
+        return self.classifier(fused), attentions
 
 if __name__ == "__main__":
     # Test Forward Pass Requirements
@@ -125,5 +126,6 @@ if __name__ == "__main__":
     char_seq = torch.randint(0, 128, (batch_size, 200))
     js_seq = torch.randint(0, 128, (batch_size, 500))
     
-    out = model(llm_ids, llm_mask, char_seq, js_seq)
-    print("Output Shape:", out.shape) # Expected (2, 3) 
+    out, attentions = model(llm_ids, llm_mask, char_seq, js_seq)
+    print("Output Shape:", out.shape) # Expected (2, 3)
+    print("Attentions Shape:", [att.shape for att in attentions]) # List of attention tensors 
